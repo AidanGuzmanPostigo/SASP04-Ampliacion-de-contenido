@@ -19,7 +19,13 @@ Indagando más en cada uno de los pilares de la sostenibilidad:
 
 ## 3. ¿Qué son los aspectos ASG y por qué deben interesar a una empresa tecnológica?
 
-Los aspectos ASG (Ambientales, Sociales y de Gobernanza) son un conjunto de criterios usados para medir la sostenibilidad y el impacto de una empresa en su entorno
+Los aspectos ASG (Ambientales, Sociales y de Gobernanza) son un conjunto de criterios usados para medir la sostenibilidad y el impacto de una empresa en su entorno, cada una de sus siglas son los distintos aspectos que abarca:
+
+- Ambientales: El impacto que la empresa tiene en el medioo ambiente.
+
+- Social: Abarca las relaciones de la empresa con las personas y la sociedad.
+
+- 
 
 ## 4. ¿Qué marcos internacionales impulsan la sostenibilidad (Agenda 2030, ODS)?
 
