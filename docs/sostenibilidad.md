@@ -27,6 +27,7 @@ Los aspectos ASG (Ambientales, Sociales y de Gobernanza) son un conjunto de crit
 
 - Gobernanza: Manera en la que se gestiona y dirige la empresa.
 
+Deben interesar a una empresa tecnológica ya que reducen los riesgos en los modelos de negocio de las empresas, una mejora de innovación empresarial.
 ## 4. ¿Qué marcos internacionales impulsan la sostenibilidad (Agenda 2030, ODS)?
 
 ## 5. ¿Qué tres ODS están más relacionados con la informática o el desarrollo de software?
