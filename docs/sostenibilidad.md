@@ -1,24 +1,29 @@
 # Introducción a la Sostenibilidad
 
-Para mi la sostenibilidad es el conjunto de acciones o medidas que se pueden aplicar para ayudar al medioambiente, la sociedad o la economía, mientras que se permite una buena calidad de vida sin afectar a la calidad de vida de las próximas generaciones. <br>
-Indagando más en cada uno de los pilares de la sostenibilidad: 
-- Pilar ambiental: Se basa en la gestión adecuada de recursos, el control de los residuos medioambientales, minimización de residuos, etc... 
-- Pilar social: Se basa en garantizar una serie de características (buena calidad de vida) a toos los ciudadanos sin perjudicar a los ciudadanos futuros, en este pilar se encuentran la inclusión, la igualdad de oportunidades, derechos y deberes igualitarios, etc... 
-- Pilar económico: Se basa en mantener el crecimiento económico sin agotar los recursos o perjudicar a los otros dos pilares de la sostenibilidad y sin comprometer a futuras genercaciones, todo esto mediante el uso de prácticas éticas, responsables y equitativas. 
+## 1. ¿Qué es la sostenibilidad y qué papel juega en el sector tecnológico actual?
+
+La sostenibilidad es el conjunto de acciones o medidas que se pueden aplicar para ayudar al medioambiente, la sociedad o la economía, mientras que se permite una buena calidad de vida sin afectar a la calidad de vida de las próximas generaciones.
+
+En el sector tecnológico actual es muy importante tener en cuenta la sostenibilidad ya que las nuevas tecnologías deben minimizar el impacto medioambiental a la vez que deben ser reciclables o al menos intentar que no generen muchos residuos electrónicos para cuando termine su ciclo de vida, además es importante realizar un consumo energético responsable a la vez que se intenta optimizar los recursos de la forma más sostenible posible.
 
 >Lo que le hacemos al mundo, nos lo hacemos a nosotros mismos. – Mahatma Gandhi
 
+## 2. ¿Qué dimensiones abarca (ambiental, social, económica)?
+Indagando más en cada uno de los pilares de la sostenibilidad: 
+
+- Pilar ambiental: Se basa en la gestión adecuada de recursos, el control de los residuos medioambientales, minimización de residuos, etc... 
+
+- Pilar social: Se basa en garantizar una serie de características (buena calidad de vida) a toos los ciudadanos sin perjudicar a los ciudadanos futuros, en este pilar se encuentran la inclusión, la igualdad de oportunidades, derechos y deberes igualitarios, etc... 
+
+- Pilar económico: Se basa en mantener el crecimiento económico sin agotar los recursos o perjudicar a los otros dos pilares de la sostenibilidad y sin comprometer a futuras genercaciones, todo esto mediante el uso de prácticas éticas, responsables y equitativas. 
+
+## 3. ¿Qué son los aspectos ASG y por qué deben interesar a una empresa tecnológica?
+
+Los aspectos ASG (Ambientales, Sociales y de Gobernanza) son un conjunto de criterios usados para medir la sostenibilidad y el impacto de una empresa en su entorno
+
+## 4. ¿Qué marcos internacionales impulsan la sostenibilidad (Agenda 2030, ODS)?
+
+## 5. ¿Qué tres ODS están más relacionados con la informática o el desarrollo de software?
 | Nombre de ODS | Imagen de ODS | Relación con la informática |
 | ------------- | ------------- | --------------------------- |
-| Educación de calidad |  ![ODS 4 - Educación de calidad](./resources/4.png) | Permitir a los ciudadanos el acceso económico a herramientas importantes tales como ordenadores, portátiles o similares para facilitar la enseñanza. |
-| Trabajo decente y crecimiento economico | ![ODS 8 - Trabajo decente y crecimiento economico](./resources/8.png) | Dentro del campo de la informática existen muchos puesto de trabajo que permiten el crecimiento económico. |
-| Industria, innovacion e infraestructura | ![ODS 9 - Industria, innovacion e infraestructura](./resources/9.png) | Creación de infraestucturas sostenibles y menos contanimantes con el uso de nuevas tecnologías. |
 
-## Objetivos de desarrollo sostenible (ODS)
-![ODS](./resources/ODS.png)
-
-## Accciones sostenibles en informática
-- Evitar la obsolescencia programada y realizar hardware que sea capaz de aguantar el mayor tiempo posible.
-- Optimizar el modo de ahorro de energía para que si algunos equipos se mantienen sin usarse se apaguen o entren en modo suspensión
-- Fomentar el teletrabajo para reducir las emisiones producidas por los transportes.
-- Reciclaje y reutilización de componentes electrónicos.
