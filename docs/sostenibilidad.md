@@ -27,8 +27,17 @@ Los aspectos ASG (Ambientales, Sociales y de Gobernanza) son un conjunto de crit
 
 - Gobernanza: Manera en la que se gestiona y dirige la empresa.
 
-Deben interesar a una empresa tecnológica ya que reducen los riesgos en los modelos de negocio de las empresas, una mejora de innovación empresarial.
+Deben interesar a una empresa tecnológica ya que reducen los riesgos en los modelos de negocio de las empresas y resultan en una mejora de innovación empresarial al redirigir los criterios de inversión y financiación.
 ## 4. ¿Qué marcos internacionales impulsan la sostenibilidad (Agenda 2030, ODS)?
+Hay cuatro grandes marcos internacionales que impulsan la sostebinilidad, estos son:
+
+- Agenda 2030: Es un plan de acción en favor de los derechos de las personas, el planeta y la prosperidad para alcanzar un desarrollo sostenible propuesto y acordado por 193 miembros de la ONU, está formadapor 17 Objetivos de Desarrollo Sostenible (ODS) y 169 metas.
+
+- Objetivos de Desarrollo Sostenible (ODS): 
+
+- Acuerdo de París:
+
+- Marco de Sendai:
 
 ## 5. ¿Qué tres ODS están más relacionados con la informática o el desarrollo de software?
 | Nombre de ODS | Imagen de ODS | Relación con la informática |
