@@ -36,11 +36,15 @@ La tecnología y la informática juegan un papel clave en este ODS, hay diferent
 
 - Conflictos armados: Permitir el acceso de estas familias a herramientas que permitan el acceso a contenidos didácticos digitales.
 
-- Falta de docentes en campos específicos: Desarrollo de software de aprendizaje didactico que permitan a los alumnos un aprendizaje de calidad.
+- Falta de docentes en campos específicos: Desarrollo de software de aprendizaje didactico que permitan a los alumnos un aprendizaje de calidad o uso de plataformas digitales que permitan el acceso a contenidos didácticos que pueden favorecer la enseñanza y la educación de calidad.
 
 ## 6. ¿Qué ejemplos o casos reales conoces (empresas, proyectos, iniciativas)?
 
 - One Laptop Per Child (OLPC): Es una iniciativa que consiste en permitir el acceso a portátiles de bajo costo a niños en países en desarrollo, intentando reducir la brecha de desigualdad.
+
+-Connected Learning in Crisis Consortium (CLCC): Es una organización global formada por instituciones académicas y humanitarias que promueven, coordinan y apoyan la educación de calidad para las personas afectadas por conflictos a través del aprendizaje conectado, pudiendo así acceder a una educación de calidad sin limitantes geográficos o temporales dados por estos conflictos.
+
+-Khan Academy: Es una plataforma digital educativa sin ánimo de lucro que contiene una enorme cantidad de material didactico en línea.
 
 ## 7. ¿Qué indicadores o métricas podrían usarse para medir el progreso hacia este ODS?
 
