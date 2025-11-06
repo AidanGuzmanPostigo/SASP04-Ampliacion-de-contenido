@@ -2,7 +2,7 @@
 
 ## 1. ¿Cuál es el objetivo principal de este ODS según la ONU?
 
-El objetivo del ODS 4 es garantizar una edicación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.
+El objetivo del ODS 4 es garantizar una educación **inclusiva, equitativa y de calidad** y promover **oportunidades de aprendizaje** durante toda la vida para todos.
 
 [Página oficial de ONU sobre el ODS 4.](https://www.un.org/sustainabledevelopment/es/education)
 
@@ -10,11 +10,11 @@ El objetivo del ODS 4 es garantizar una edicación inclusiva, equitativa y de ca
 
 La tecnología y la informática juegan un papel clave en este ODS, hay diferentes factores que podemos tener en cuenta:
 
-- Plataformas de aprendizaje o acceso a contenidos educativos en línea: Gracias a esto hay mucha gente que puede estudiar desde casa o que puede usar información de internet para mejorar su educación.
+- **Plataformas de aprendizaje** o **acceso a contenidos educativos en línea**: Gracias a esto hay mucha gente que puede estudiar desde casa o que puede usar información de internet para mejorar su educación.
 
-- Ayudan al desarrollo de competencias en TIC, cosa que en el mundo en el que vivimos es cada día más necesario.
+- Ayudan al desarrollo de **competencias en TIC**, cosa que en el mundo en el que vivimos es cada día más necesario.
 
-- Uso de herramientas de accesibilidad para personas con discapacidades, por ejemplo un lector de pantalla que pueda ayudar a los estudiantes a mejorar su educación.
+- Uso de **herramientas de accesibilidad** para personas con discapacidades, por ejemplo un lector de pantalla que pueda ayudar a los estudiantes a mejorar su educación.
 
 ## 3. ¿Qué problemas o retos ambientales/sociales afectan al logro de este objetivo? (describe al menos tres). ¿Cómo influye la actividad tecnológica en esos problemas (de forma positiva o negativa)? ¿Qué soluciones tecnológicas podrían aplicarse para mitigarlos o resolverlos?
 | **Problema** | **Influencia de la actividad técnologica** | **Soluciones** |
