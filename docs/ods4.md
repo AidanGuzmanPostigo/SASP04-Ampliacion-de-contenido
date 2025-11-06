@@ -32,11 +32,15 @@ La tecnología y la informática juegan un papel clave en este ODS, hay diferent
 
 ## 5. ¿Qué soluciones tecnológicas podrían aplicarse para mitigarlos o resolverlos?
 
-- Desigualdad socioeconómica:
+- Desigualdad socioeconómica: Podrían implementarse diferentes ayudas para que las personas desfavorecidas puedan acceder a dispositivos de una forma más económica que les permita acceder a contenidos digittales o bien, realizar diferentes puntos en zonas donde haya mucha desigualdad donde se encuentren equipos públicos de acceso libre para que se pueda acceder a estas herramientas en caso de necesitarlas.
+
+- Conflictos armados: Permitir el acceso de estas familias a herramientas que permitan el acceso a contenidos didácticos digitales.
+
+- Falta de docentes en campos específicos: Desarrollo de software de aprendizaje didactico que permitan a los alumnos un aprendizaje de calidad.
 
 ## 6. ¿Qué ejemplos o casos reales conoces (empresas, proyectos, iniciativas)?
 
-
+- One Laptop Per Child (OLPC): Es una iniciativa que consiste en permitir el acceso a portátiles de bajo costo a niños en países en desarrollo, intentando reducir la brecha de desigualdad.
 
 ## 7. ¿Qué indicadores o métricas podrían usarse para medir el progreso hacia este ODS?
 
