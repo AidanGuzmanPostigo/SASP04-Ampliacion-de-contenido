@@ -9,6 +9,7 @@ En el sector tecnológico actual es muy importante tener en cuenta la sostenibil
 >Lo que le hacemos al mundo, nos lo hacemos a nosotros mismos. – Mahatma Gandhi
 
 ## 2. ¿Qué dimensiones abarca (ambiental, social, económica)?
+
 Indagando más en cada uno de los pilares de la sostenibilidad: 
 
 - Pilar ambiental: Se basa en la gestión adecuada de recursos, el control de los residuos medioambientales, minimización de residuos, etc... 
@@ -30,18 +31,23 @@ Los aspectos ASG (Ambientales, Sociales y de Gobernanza) son un conjunto de crit
 Deben interesar a una empresa tecnológica ya que reducen los riesgos en los modelos de negocio de las empresas y resultan en una mejora de innovación empresarial al redirigir los criterios de inversión y financiación.
 
 ## 4. ¿Qué marcos internacionales impulsan la sostenibilidad (Agenda 2030, ODS)?
+
 Hay cuatro grandes marcos internacionales que impulsan la sostebinilidad, estos son:
 
 - Agenda 2030: Es un plan de acción en favor de los derechos de las personas, el planeta y la prosperidad para alcanzar un desarrollo sostenible propuesto y acordado por 193 miembros de la ONU, está formadapor 17 Objetivos de Desarrollo Sostenible (ODS) y 169 metas.
 
-- Objetivos de Desarrollo Sostenible (ODS): Son un conjunto de propósitos a alcanzar para mejorar las condiciones socioeconómicas, mediambientales y económicas.
-Existen 17 ODS y tienen asignadas 169 metas.
+- Objetivos de Desarrollo Sostenible (ODS): Son un conjunto de propósitos a alcanzar para mejorar las condiciones socioeconómicas, mediambientales y económicas. Existen 17 ODS y tienen asignadas 169 metas.
 
 - Acuerdo de París: Es un tratado internacional jurídicamente vinculante entre 196 partes que consiste en limitar el calentamiento mundial a por debajo de 2 en comparación con niveles preindustriales.
 
-- Marco de Sendai:
+Para lograr este objetivo los países se proponen alcanzar lo antes posible el máximo de emisiones de gases de efecto invernadero para lograr un clima neutral para mediados de siglo.
+
+- Marco de Sendai: Es un acuerdo global de la ONU que busca reducir el número de muertes, pérdidas económicas y daños en infraestructuras causados por desastres naturales y desastres provocados.
 
 ## 5. ¿Qué tres ODS están más relacionados con la informática o el desarrollo de software?
+
 | Nombre de ODS | Imagen de ODS | Relación con la informática |
 | ------------- | ------------- | --------------------------- |
-
+| Educación de calidad |  ![ODS 4 - Educación de calidad](./resources/4.png) | Permitir a los ciudadanos el acceso económico a herramientas importantes tales como ordenadores, portátiles o similares para facilitar la enseñanza. |
+| Trabajo decente y crecimiento economico | ![ODS 8 - Trabajo decente y crecimiento economico](./resources/8.png) | Dentro del campo de la informática existen muchos puesto de trabajo que permiten el crecimiento económico. |
+| Industria, innovacion e infraestructura | ![ODS 9 - Industria, innovacion e infraestructura](./resources/9.png) | Creación de infraestucturas sostenibles y menos contanimantes con el uso de nuevas tecnologías. |
