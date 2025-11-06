@@ -4,6 +4,8 @@
 
 El objetivo del ODS 4 es garantizar una educación **inclusiva, equitativa y de calidad** y promover **oportunidades de aprendizaje** durante toda la vida para todos.
 
+![ODS 4](./assets/ods4Big)
+
 [Página oficial de ONU sobre el ODS 4.](https://www.un.org/sustainabledevelopment/es/education)
 
 ## 2. ¿Qué relación tiene con la tecnología o la informática?
