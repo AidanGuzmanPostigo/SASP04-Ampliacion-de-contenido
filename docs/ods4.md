@@ -48,7 +48,11 @@ La tecnología y la informática juegan un papel clave en este ODS, hay diferent
 
 ## 7. ¿Qué indicadores o métricas podrían usarse para medir el progreso hacia este ODS?
 
+- Proporción de jóvenes que hayan finalizado unos estudios básicos.
 
+- Nivel medio de la población mundial en áreas de conocimiento específicas.
+
+- Mediante pruebas realizadas a nivel mundial que permitan ver el nivel de los estudiantes para intentar que no exista desigualdad.
 
 ## 8. Otros ODS relacionados
 
