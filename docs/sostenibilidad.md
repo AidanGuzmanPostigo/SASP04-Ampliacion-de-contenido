@@ -48,6 +48,6 @@ Para lograr este objetivo los países se proponen alcanzar lo antes posible el m
 
 | Nombre de ODS | Imagen de ODS | Relación con la informática |
 | ------------- | ------------- | --------------------------- |
-| Educación de calidad |  ![ODS 4 - Educación de calidad](./resources/4.png) | Permitir a los ciudadanos el acceso económico a herramientas importantes tales como ordenadores, portátiles o similares para facilitar la enseñanza. |
-| Trabajo decente y crecimiento economico | ![ODS 8 - Trabajo decente y crecimiento economico](./resources/8.png) | Dentro del campo de la informática existen muchos puesto de trabajo que permiten el crecimiento económico. |
-| Industria, innovacion e infraestructura | ![ODS 9 - Industria, innovacion e infraestructura](./resources/9.png) | Creación de infraestucturas sostenibles y menos contanimantes con el uso de nuevas tecnologías. |
+| Educación de calidad |  ![ODS 4 - Educación de calidad](./assets/4.png) | Permitir a los ciudadanos el acceso económico a herramientas importantes tales como ordenadores, portátiles o similares para facilitar la enseñanza. |
+| Trabajo decente y crecimiento economico | ![ODS 8 - Trabajo decente y crecimiento economico](./assets/8.png) | Dentro del campo de la informática existen muchos puesto de trabajo que permiten el crecimiento económico. |
+| Industria, innovacion e infraestructura | ![ODS 9 - Industria, innovacion e infraestructura](./assets/9.png) | Creación de infraestucturas sostenibles y menos contanimantes con el uso de nuevas tecnologías. |
