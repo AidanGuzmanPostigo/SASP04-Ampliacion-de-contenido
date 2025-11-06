@@ -38,9 +38,7 @@ Hay cuatro grandes marcos internacionales que impulsan la sostebinilidad, estos 
 
 - **Objetivos de Desarrollo Sostenible (ODS):** Son un conjunto de propósitos a alcanzar para mejorar las condiciones socioeconómicas, mediambientales y económicas. Existen 17 ODS y tienen asignadas 169 metas.
 
-- **Acuerdo de París:** Es un tratado internacional jurídicamente vinculante entre 196 partes que consiste en limitar el calentamiento mundial a por debajo de 2 en comparación con niveles preindustriales.
-
-Para lograr este objetivo los países se proponen alcanzar lo antes posible el máximo de emisiones de gases de efecto invernadero para lograr un clima neutral para mediados de siglo.
+- **Acuerdo de París:** Es un tratado internacional jurídicamente vinculante entre 196 partes que consiste en limitar el calentamiento mundial a por debajo de 2 en comparación con niveles preindustriales. Para lograr este objetivo los países se proponen alcanzar lo antes posible el máximo de emisiones de gases de efecto invernadero para lograr un clima neutral para mediados de siglo.
 
 - **Marco de Sendai:** Es un acuerdo global de la ONU que busca reducir el número de muertes, pérdidas económicas y daños en infraestructuras causados por desastres naturales y desastres provocados.
 
