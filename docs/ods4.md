@@ -27,15 +27,15 @@ La tecnología y la informática juegan un papel clave en este ODS, hay diferent
 
 - **One Laptop Per Child (OLPC):** Es una iniciativa que consiste en permitir el acceso a portátiles de bajo costo a niños en países en desarrollo, intentando reducir la brecha de desigualdad.
 
-![OLPC](./assets/OLPC.png)
+![OLPC](/assets/OLPC.png)
 
 - **Connected Learning in Crisis Consortium (CLCC):** Es una organización global formada por instituciones académicas y humanitarias que promueven, coordinan y apoyan la educación de calidad para las personas afectadas por conflictos a través del aprendizaje conectado, pudiendo así acceder a una educación de calidad sin limitantes geográficos o temporales dados por estos conflictos.
 
-![CLCC](./assets/CLCC.png)
+![CLCC](/assets/CLCC.png)
 
 - **Khan Academy:** Es una plataforma digital educativa sin ánimo de lucro que contiene una enorme cantidad de material didactico en línea.
 
-![Khan](./assets/Khan.png)
+![Khan](/assets/Khan.png)
 
 ## 5. ¿Qué indicadores o métricas podrían usarse para medir el progreso hacia este ODS?
 
