@@ -4,6 +4,8 @@
 
 El objetivo del ODS 4 es garantizar una edicación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.
 
+[Página oficial de ONU sobre el ODS 4](https://www.un.org/sustainabledevelopment/es/education)
+
 ## 2. ¿Qué relación tiene con la tecnología o la informática?
 
 La tecnología y la informática juegan un papel clave en este ODS, hay diferentes factores que podemos tener en cuenta:
@@ -56,8 +58,37 @@ La tecnología y la informática juegan un papel clave en este ODS, hay diferent
 
 ## 8. Otros ODS relacionados
 
-- ODS 11 - Ciudades y comunidades sostenibles:
+<!--Texto plano de relaciones entre ODS sin filtro (esperando enlaces)
 
-- ODS 8 - Trabajo decente y crecimiento economico:
+ODS 1 (Fin de la Pobreza): La educación de calidad proporciona las habilidades necesarias para obtener empleos mejor remunerados, siendo una herramienta crucial para quebrar el ciclo de la pobreza y mejorar los medios de vida.
 
-- ODS RENAME: 
+ODS 2 (Hambre Cero): La educación, especialmente en nutrición y técnicas agrícolas modernas, capacita a las comunidades para implementar prácticas sostenibles que garantizan la seguridad alimentaria y erradican el hambre.
+
+ODS 3 (Salud y Bienestar): La educación sanitaria y sexual previene enfermedades, promueve estilos de vida saludables e informa a las personas sobre sus derechos y acceso a la atención médica.
+
+ODS 5 (Igualdad de Género): Garantizar la educación de las niñas y mujeres es fundamental para empoderarlas, permitiendo su plena participación social, económica y política.
+
+ODS 6 (Agua Limpia y Saneamiento): La educación ambiental y la sensibilización sobre la higiene y la gestión del agua son esenciales para la conservación de los recursos hídricos y la adopción de prácticas de saneamiento seguras.
+
+ODS 7 (Energía Asequible y No Contaminante): La formación en tecnologías limpias y la concienciación sobre el uso eficiente de la energía impulsan la transición hacia fuentes energéticas sostenibles.
+
+ODS 8 (Trabajo Decente y Crecimiento Económico): La educación superior y la formación profesional y técnica generan una fuerza laboral cualificada, esencial para la productividad, la innovación y el crecimiento económico sostenible.
+
+ODS 9 (Industria, Innovación e Infraestructura): La inversión en educación en ciencia, tecnología, ingeniería y matemáticas (CTIM) crea la base de conocimiento y la capacidad de investigación para construir infraestructuras resilientes.
+
+ODS 10 (Reducción de las Desigualdades): La educación inclusiva y equitativa garantiza que los grupos marginados y vulnerables tengan las mismas oportunidades de desarrollo, cerrando las brechas sociales y económicas.
+
+ODS 11 (Ciudades y Comunidades Sostenibles): La educación cívica y la formación en planificación urbana fomentan la participación ciudadana y las habilidades para crear asentamientos inclusivos, seguros y resilientes.
+
+ODS 12 (Producción y Consumo Responsables): La educación para el desarrollo sostenible enseña a los ciudadanos sobre el impacto de sus hábitos, promoviendo patrones de consumo y producción más sostenibles y circulares.
+
+ODS 13 (Acción por el Clima): La educación es clave para concienciar sobre el cambio climático, sus impactos y las estrategias de adaptación y mitigación necesarias.
+
+ODS 14 (Vida Submarina): La educación marina y costera aumenta la comprensión sobre la importancia de los ecosistemas oceánicos y la necesidad de conservar y usar de forma sostenible los recursos marinos.
+
+ODS 15 (Vida de Ecosistemas Terrestres): La educación ambiental y la ecología promueven el conocimiento y las prácticas para proteger la biodiversidad, gestionar los bosques de forma sostenible y combatir la desertificación.
+
+ODS 16 (Paz, Justicia e Instituciones Sólidas): La educación promueve los derechos humanos, la ciudadanía global, el respeto a la diversidad y la rendición de cuentas, fortaleciendo la gobernanza y la justicia.
+
+ODS 17 (Alianzas para lograr los Objetivos): La educación facilita el intercambio de conocimientos y la creación de capacidades, elementos fundamentales para construir asociaciones efectivas y globales para el desarrollo sostenible.
+-->
