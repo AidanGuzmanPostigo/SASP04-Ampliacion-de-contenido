@@ -42,4 +42,10 @@ En lo personal creo que es porque a las empresas del sector no les preocupa la s
 
 ## 5. ¿Qué compromisos o acciones personales estás dispuesto a asumir?
 
+- Optimizar mi software de una manera lo más eficiente posible.
+
+- Priorizar la accesibilidad a mi software mediante el uso de licencias open source.
+
+- Reducir el consumo energético lo mayor posible.
+
 
