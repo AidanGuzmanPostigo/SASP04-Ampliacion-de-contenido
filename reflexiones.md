@@ -32,7 +32,13 @@ Las empresas tecnológicas cuentan con un papel **importante** en la sostenibili
 
 ## 4. ¿Por qué crees que aún cuesta aplicar políticas sostenibles en el sector TIC?
 
+En lo personal creo que es porque a las empresas del sector no les preocupa la sostenibilidad y se centran en generar beneficios, pienso esto por algunas prácticas negativas que realizan:
 
+- **Subida de precios**: En el sector actual muchas empresas están elevando los precios de sus productos, lo que reduce la **accesibilidad** general de estos a pesar de que las empresas puedan obtener una mayor ganancia.
+
+- **Sustitución de puestos de trabajo por IA**: Muchas empresas están **dejando de contratar empleados** o **despidiendo a personal** para algunas tareas específicas para ahorrarse los costes de los sueldos, lo que genera que muchas personas se queden sin trabajo y por tanto, sin sostento económico.
+
+- **Reducción de optimización y calidad general de software**: En muchas empresas se está dando el caso de que por querer lanzar un determinado software en un **plazo fijo** este sale al mercado en un **mal estado** ya sea por optimización o por la calidad general de este.
 
 ## 5. ¿Qué compromisos o acciones personales estás dispuesto a asumir?
 
